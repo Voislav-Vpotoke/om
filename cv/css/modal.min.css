@@ -28,6 +28,7 @@ background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 
 .modal-content {
 position: relative;
+left: -15%;
 background-color: #472be2;
 margin: auto;
 padding: 0;

@@ -1,2 +1,7 @@
-let who = "dragon's" + 'mother';
-console.log(who);
+new Vue ({
+    el: '#app',
+    data: {
+        title: 'Hello? World!'
+    }
+});
+       

@@ -2,7 +2,6 @@
   "name": "shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://voislav-vpotoke.github.io/om/itshop_okt/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
